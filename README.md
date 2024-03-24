@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @VicenteM13
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning about machine learning
-- 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me mach... I mean miranda.v.julian@gmail.com
+# Hello! I am Julian Miranda.<br>
+I am a **Machine Learning Engineer**.<br>
+I hold a MS in Applied and Computational Mathematics and a BS in Mathematics.<br>
+Here is a small collection of codes that I have made thoroughout the years.<br>
+More about these projects and me can be found at *www.jvmiranda.com*<br>
+Enjoy!
 
 <!---
 VicenteM13/VicenteM13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
